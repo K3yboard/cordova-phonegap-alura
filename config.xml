@@ -8,9 +8,9 @@
         email="qualquer@k3yboard.com">
         Paulo dos Anjos
     </author>
-    <icon src="/imagens/icon.png" />
+    <icon src="./imagens/icon.png" />
     <plugin name="cordova-plugin-splashscreen" />
-    <splash src="/imagens/splash.png" />
+    <splash src="./imagens/splash.png" />
     <preference name="orientation" value="portrait" />
     <preference name="fullscreen" value="true" />
     <preference name="permissions" value="none" />
